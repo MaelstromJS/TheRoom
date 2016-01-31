@@ -1,0 +1,37 @@
+[
+  {
+    "id": "0",
+    "name": "3D Model",
+    "type": "model"
+  },
+  {
+    "id": "6",
+    "name": "Leonard",
+    "type": "sprite"
+  },
+  {
+    "id": "7",
+    "name": "Game",
+    "type": "script"
+  },
+  {
+    "id": "8",
+    "name": "Main",
+    "type": "scene"
+  },
+  {
+    "id": "11",
+    "name": "Border",
+    "type": "sprite"
+  },
+  {
+    "id": "9",
+    "name": "Room",
+    "type": "tileSet"
+  },
+  {
+    "id": "10",
+    "name": "RoomSprite",
+    "type": "sprite"
+  }
+]

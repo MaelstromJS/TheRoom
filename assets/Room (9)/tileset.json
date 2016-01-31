@@ -1,0 +1,12 @@
+{
+  "formatVersion": 1,
+  "grid": {
+    "width": 40,
+    "height": 56
+  },
+  "tileProperties": {
+    "2_2": {
+      "property": ""
+    }
+  }
+}
